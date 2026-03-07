@@ -14,14 +14,13 @@
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
   "nickNameBot": "Jin",
   "prefix": "^",
-  "adminOnly": ["61584310204608"] {
+  "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
   "adminBot": [
     "61556670383184", "61584310204608"
   ],
-"dev": ["61584310204608"],
   "premiumUsers": [
     "61584310204608"
   ],
