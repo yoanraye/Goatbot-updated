@@ -19,6 +19,15 @@
 
 const { spawn } = require("child_process");
 const log = require("./logger/log.js");
+const fs = require("fs");
+const path = require("path");
+
+// If APPSTATE is provided as env var (e.g. on Render), write it to account.txt
+if (process.env.APPSTATE) {
+	const accountPath = path.join(__dirname, "account.txt");
+	fs.writeFileSync(accountPath, process.env.APPSTATE, "utf8");
+	log.info("STARTUP", "Wrote APPSTATE env var to account.txt");
+}
 
 function startProject() {
 	const child = spawn("node", ["Goat.js"], {
