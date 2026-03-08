@@ -1,7 +1,7 @@
 /**
- * @author NTKhang
- * ! The source code is written by NTKhang, please don't change the author's name everywhere. Thank you for using
- * ! Official source code: https://github.com/ntkhang03/Goat-Bot-V2
+ * @author Jin
+ * ! The source code is written by Jin, please don't change the author's name everywhere. Thank you for using
+ * ! Official source code: https://github.com/NTKhang03/Goat-Bot-V2
  * ! If you do not download the source code from the above address, you are using an unknown version and at risk of having your account hacked
  *
  * English:
@@ -58,6 +58,18 @@ for (const pathDir of [dirConfig, dirConfigCommands]) {
         }
 }
 const config = require(dirConfig);
+
+// ————————————————— ENV VARIABLE OVERRIDES ————————————————— //
+if (process.env.PREFIX) config.prefix = process.env.PREFIX;
+if (process.env.EMAIL) config.facebookAccount.email = process.env.EMAIL;
+if (process.env.PASSWORD) config.facebookAccount.password = process.env.PASSWORD;
+if (process.env.ADMIN_BOT) config.adminBot = process.env.ADMIN_BOT.split(',').map(id => id.trim());
+if (process.env.PORT) {
+    config.dashBoard.enable = true;
+    config.dashBoard.port = process.env.PORT;
+}
+// ————————————————————————————————————————————————————————— //
+
 if (config.whiteListMode?.whiteListIds && Array.isArray(config.whiteListMode.whiteListIds))
         config.whiteListMode.whiteListIds = config.whiteListMode.whiteListIds.map(id => id.toString());
 const configCommands = require(dirConfigCommands);
@@ -210,7 +222,7 @@ if (config.autoRestart) {
 
 (async () => {
         // ———————————————— CHECK VERSION ———————————————— //
-        const { data: { version } } = await axios.get("https://raw.githubusercontent.com/ntkhang03/Goat-Bot-V2/main/package.json");
+        const { data: { version } } = await axios.get("https://raw.githubusercontent.com/NTKhang03/Goat-Bot-V2/main/package.json");
         const currentVersion = require("./package.json").version;
         if (compareVersion(version, currentVersion) === 1)
                 utils.log.master("NEW VERSION", getText(

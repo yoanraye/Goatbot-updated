@@ -15,7 +15,7 @@ module.exports = {
   config: {
     name: "pi",
     version: "1.0",
-    author: "Tanvir",
+    author: "Jin",
     countDown: 5,
     role: 0,
     description: {

@@ -5,7 +5,7 @@ module.exports = {
     name: "seedreamv4",
     aliases: ["seedream", "sdv4", "sdv4edit"],
     version: "1.0",
-    author: "Neoaz ゐ", //API by RIFAT
+    author: "Jin", //API by Jin
     countDown: 10,
     role: 0,
     shortDescription: { en: "Generate or edit image with Seedream V4" },

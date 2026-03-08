@@ -4,7 +4,7 @@ module.exports = {
 	config: {
 		name: "warn",
 		version: "1.8",
-		author: "NTKhang",
+		author: "Jin",
 		countDown: 5,
 		role: 0,
 		description: {
@@ -259,9 +259,8 @@ module.exports = {
 						api.removeUserFromGroup(uid, threadID, async (err) => {
 							if (err) {
 								const members = await threadsData.get(event.threadID, "members");
-								if (members.find(item => item.userID == uid)?.inGroup) // check if user is still in group
-									return message.reply(getLang("userNotInGroup", userName));
-								else
+								if (members.find(item => item.userID == uid)?.inGroup) { // check if user is still in group
+									// Fallback to waiting for admin if it failed
 									return message.reply(getLang("noPermission5"), (e, info) => {
 										const { onEvent } = global.GoatBot;
 										onEvent.push({
@@ -280,6 +279,7 @@ module.exports = {
 											}
 										});
 									});
+								}
 							}
 						});
 					});
@@ -318,30 +318,8 @@ module.exports = {
 
 				if (hasBanned.length) {
 					await message.send(getLang("hasBanned", hasBanned.map(item => `  - ${item.name} (uid: ${item.uid})`).join("\n")));
-					if (!adminIDs.includes(api.getCurrentUserID()))
-						message.reply(getLang("noPermission5"), (e, info) => {
-							const { onEvent } = global.GoatBot;
-							onEvent.push({
-								messageID: info.messageID,
-								onStart: async ({ event }) => {
-									if (
-										event.logMessageType === "log:thread-admins"
-										&& event.logMessageData.ADMIN_EVENT == "add_admin"
-										&& event.logMessageData.TARGET_ID == api.getCurrentUserID()
-									) {
-										const threadData = await threadsData.get(event.threadID);
-										const warnList = threadData.data.warn;
-										const members = threadData.members;
-										removeUsers(hasBanned, warnList, api, event, message, getLang, members);
-										global.GoatBot.onEvent = onEvent.filter(item => item.messageID != info.messageID);
-									}
-								}
-							});
-						});
-					else {
-						const members = await threadsData.get(event.threadID, "members");
-						removeUsers(hasBanned, warnList, api, event, message, getLang, members);
-					}
+					const members = await threadsData.get(event.threadID, "members");
+					removeUsers(hasBanned, warnList, api, event, message, getLang, members);
 				}
 			};
 		}

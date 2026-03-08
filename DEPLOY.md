@@ -157,7 +157,7 @@ BOT_STARTED: Bot has been started successfully
 
 3. **Clone Repository**
    ```bash
-   git clone https://github.com/ntkhang03/Goat-Bot-V2.git
+   git clone https://github.com/Jin/Goat-Bot-V2.git
    cd Goat-Bot-V2
    ```
 
@@ -314,9 +314,9 @@ docker-compose down
 ## 📞 Support
 
 If you encounter issues:
-- Check [GitHub Issues](https://github.com/ntkhang03/Goat-Bot-V2/issues)
+- Check [GitHub Issues](https://github.com/Jin/Goat-Bot-V2/issues)
 - Join the [Discord Server](https://discord.com/invite/DbyGwmkpVY)
-- Read [Documentation](https://github.com/ntkhang03/Goat-Bot-V2/blob/main/DOCS.md)
+- Read [Documentation](https://github.com/Jin/Goat-Bot-V2/blob/main/DOCS.md)
 
 ---
 
@@ -332,4 +332,4 @@ If you encounter issues:
 
 ---
 
-**Created by NTKhang | Enhanced by NeoKEX**
+**Created by Jin | Enhanced by Jin**

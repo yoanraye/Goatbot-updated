@@ -1,0 +1,10 @@
+# Deny list
+node_modules/
+account.txt
+appstate.json
+database/data/*.sqlite
+neokex_fca_database/*.sqlite
+.env
+cache/
+tmp/
+*.log

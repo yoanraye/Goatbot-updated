@@ -7,7 +7,7 @@ module.exports = {
         config: {
                 name: "update",
                 version: "1.6",
-                author: "Chat GPT, NTKhang",
+                author: "Jin",
                 role: 4,
                 description: {
                         en: "Check for and install updates for the chatbot.",
@@ -26,7 +26,7 @@ module.exports = {
                         updatePrompt: "💫 | Bạn đang sử dụng phiên bản %1. Hiện tại đã có phiên bản %2. Bạn có muốn cập nhật chatbot lên phiên bản mới nhất không?"
                                 + "\n\n⬆️ | Các tệp sau sẽ được cập nhật:"
                                 + "\n%3%4"
-                                + "\n\nℹ️ | Xem chi tiết tại https://github.com/ntkhang03/Goat-Bot-V2/commits/main"
+                                + "\n\nℹ️ | Xem chi tiết tại https://github.com/NTKhang03/Goat-Bot-V2/commits/main"
                                 + "\n◉ | Thả cảm xúc bất kỳ vào tin nhắn này để xác nhận",
                         fileWillDelete: "\n🗑️ | Các tệp/thư mục sau sẽ bị xóa:\n%1",
                         andMore: " ...và %1 tệp khác",
@@ -40,7 +40,7 @@ module.exports = {
                         updatePrompt: "💫 | You are using version %1. There is a new version %2. Do you want to update the chatbot to the latest version?"
                                 + "\n\n⬆️ | The following files will be updated:"
                                 + "\n%3%4"
-                                + "\n\nℹ️ | See details at https://github.com/ntkhang03/Goat-Bot-V2/commits/main"
+                                + "\n\nℹ️ | See details at https://github.com/NTKhang03/Goat-Bot-V2/commits/main"
                                 + "\n◉ | React to this message to confirm.",
                         fileWillDelete: "\n🗑️ | The following files/folders will be deleted:\n%1",
                         andMore: " ...and %1 more files",
@@ -61,8 +61,8 @@ module.exports = {
 
         onStart: async function ({ message, getLang, commandName, event }) {
                 // Check for updates
-                const { data: { version } } = await axios.get("https://raw.githubusercontent.com/ntkhang03/Goat-Bot-V2/main/package.json");
-                const { data: versions } = await axios.get("https://raw.githubusercontent.com/ntkhang03/Goat-Bot-V2/main/versions.json");
+                const { data: { version } } = await axios.get("https://raw.githubusercontent.com/NTKhang03/Goat-Bot-V2/main/package.json");
+                const { data: versions } = await axios.get("https://raw.githubusercontent.com/NTKhang03/Goat-Bot-V2/main/versions.json");
 
                 const currentVersion = require("../../package.json").version;
                 if (compareVersion(version, currentVersion) < 1)
@@ -115,7 +115,7 @@ module.exports = {
                 if (userID != Reaction.authorID)
                         return;
 
-                const { data: lastCommit } = await axios.get('https://api.github.com/repos/ntkhang03/Goat-Bot-V2/commits/main');
+                const { data: lastCommit } = await axios.get('https://api.github.com/repos/NTKhang03/Goat-Bot-V2/commits/main');
                 const lastCommitDate = new Date(lastCommit.commit.committer.date);
                 // if < 5min then stop update and show message
                 if (new Date().getTime() - lastCommitDate.getTime() < 5 * 60 * 1000) {

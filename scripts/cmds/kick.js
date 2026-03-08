@@ -2,7 +2,7 @@ module.exports = {
 	config: {
 		name: "kick",
 		version: "1.3",
-		author: "NTKhang",
+		author: "Jin",
 		countDown: 5,
 		role: 1,
 		description: {
@@ -26,14 +26,21 @@ module.exports = {
 	},
 
 	onStart: async function ({ message, event, args, threadsData, api, getLang }) {
-		const adminIDs = await threadsData.get(event.threadID, "adminIDs");
-		if (!adminIDs.includes(api.getCurrentUserID()))
-			return message.reply(getLang("needAdmin"));
 		async function kickAndCheckError(uid) {
 			try {
 				await api.removeUserFromGroup(uid, event.threadID);
 			}
 			catch (e) {
+				// Proactively refresh info and retry once if it might be a permission sync issue
+				const threadInfo = await api.getThreadInfo(event.threadID);
+				await threadsData.refreshInfo(event.threadID, threadInfo);
+				if (threadInfo.adminIDs.some(a => (a.id || a) == api.getCurrentUserID())) {
+					try {
+						return await api.removeUserFromGroup(uid, event.threadID);
+					} catch (e2) {
+						// still failed
+					}
+				}
 				message.reply(getLang("needAdmin"));
 				return "ERROR";
 			}

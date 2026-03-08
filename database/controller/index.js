@@ -47,7 +47,7 @@ module.exports = async function (api) {
 			process.stderr.clearLine = function () { };
 			spin.start();
 			try {
-				var { threadModel, userModel, dashBoardModel, globalModel } = await require("../connectDB/connectMongoDB.js")(config.database.uriMongodb);
+				var { threadModel, userModel, dashBoardModel, globalModel } = await require("../connectDB/connectMongoDB.js")(process.env.MONGODB_URI || config.database.uriMongodb);
 				spin.stop();
 				process.stderr.clearLine = defaultClearLine;
 				log.info("MONGODB", getText("indexController", "connectMongoDBSuccess"));

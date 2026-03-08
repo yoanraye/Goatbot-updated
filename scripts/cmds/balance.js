@@ -311,7 +311,7 @@ module.exports = {
         name: "balancec",
         aliases: ["bal", "wallet", "mybalance", "wcard"],
         version: "2.0.0",
-        author: "Neoaz ゐ",
+        author: "Jin",
         countDown: 10,
         role: 0,
         description: "Display your wallet balance with a professional card featuring your profile picture",
@@ -350,10 +350,12 @@ module.exports = {
             
             await fs.writeFile(imagePath, buffer);
 
+            const bankBalance = userData.data?.bank?.balance || 0;
+
             const isOwn = targetID === event.senderID;
             const msgBody = isOwn 
-                ? `${userData.name}\nBalance: ${CURRENCY_SYMBOL}${formatMoney(balance)}`
-                : `WALLET CARD\n━━━━━━━━━━━━━━━━━━\n${userData.name}\nBalance: ${CURRENCY_SYMBOL}${formatMoney(balance)}`;
+                ? `${userData.name}\nWallet Balance: ${CURRENCY_SYMBOL}${formatMoney(balance)}\nBank Balance: ${CURRENCY_SYMBOL}${formatMoney(bankBalance)}`
+                : `WALLET CARD\n━━━━━━━━━━━━━━━━━━\n${userData.name}\nWallet Balance: ${CURRENCY_SYMBOL}${formatMoney(balance)}\nBank Balance: ${CURRENCY_SYMBOL}${formatMoney(bankBalance)}`;
 
             await message.reply({
                 body: msgBody,

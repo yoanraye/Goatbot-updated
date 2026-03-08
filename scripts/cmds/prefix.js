@@ -5,7 +5,7 @@ module.exports = {
 				config: {
 								name: "prefix",
 								version: "1.4",
-								author: "NTKhang & NeoKEX",
+								author: "Jin",
 								countDown: 5,
 								role: 0,
 								description: "Thay đổi dấu lệnh của bot trong box chat của bạn hoặc cả hệ thống bot (chỉ admin bot)",
@@ -94,7 +94,8 @@ module.exports = {
 								}
 				},
 
-				onChat: async function ({ event, message, getLang, usersData }) {
+				onChat: async function ({ event, message, getLang, usersData, api }) {
+								if (event.senderID == api.getCurrentUserID()) return;
 								if (event.body && event.body.toLowerCase() === "prefix")
 												return async () => {
 																const userName = await usersData.getName(event.senderID);

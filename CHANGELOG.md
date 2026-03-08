@@ -3,7 +3,7 @@
 - **fb-chat-api/index.js**: fix: fca not working
 - **fb-chat-api/src/listenMqtt.js**: fix: fca not working
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.5.34
@@ -15,7 +15,7 @@
 - **bot/login/login.js**: OPEN SOURCE 100%
 - **scripts/cmds/cmd.js**: OPEN SOURCE 100%
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.5.33
@@ -24,7 +24,7 @@
 - **bot/login/login.js**: feat: new login method `loginMbasic`
 - **bot/login/loginMbasic.js**: feat: new login method `loginMbasic`
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.5.32
@@ -35,14 +35,14 @@
 - **scripts/cmds/ban.js**: Check if the member exists in the chat box before kicking it out of the chat box
 - **scripts/cmds/rankup.js**: Fix custom message not working error
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.5.31
 ### ⬆️ What's Changed
 - **scripts/cmds/setname.js**: fix error when name has special characters
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.5.30
@@ -55,7 +55,7 @@
 - **scripts/cmds/cmd.js**: Replace the `createQueue` function into the `TaskQueue` class, code optimization
 - **utils.js**: Replace the `createQueue` function into the `TaskQueue` class
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.5.29
@@ -139,7 +139,7 @@
 ### 🗑️ Files Deleted
 - **scripts/cmds/list.js**: 
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.5.28
@@ -152,7 +152,7 @@
 ### 🗑️ Files Deleted
 - **scripts/cmds/list.js**: 
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.5.27
@@ -177,7 +177,7 @@
 ### 🗑️ Files Deleted
 - **scripts/cmds/list.js**: 
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.5.26
@@ -186,7 +186,7 @@
 - **fb-chat-api/index.js**: add new api `editMessage`: edit message
 ### Contributors
 - <div style="display: flex; align-items: center;"><a href="https://github.com/Tanvir0999">Tanvir0999&nbsp;&nbsp;</a> <img src="https://github.com/Tanvir0999.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Tanvir0999"></div>
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.5.25
@@ -202,19 +202,19 @@
 ### 🗑️ Files Deleted
 - **scripts/cmds/batslap.js**: Remove `unnecessary` commands
 
-These commands are really not necessary, it often crashes due to blocking by 3rd party api, visit the websites to make this smoother, although these commands have been removed from the source code in version new, but if you want to edit it, you can still get it back at the old commit, (of course these commands will no longer be updated) https://github.com/ntkhang03/Goat-Bot-V2/tree/8ac704f08e70abcaaf663e4127c4e05e4874c588
+These commands are really not necessary, it often crashes due to blocking by 3rd party api, visit the websites to make this smoother, although these commands have been removed from the source code in version new, but if you want to edit it, you can still get it back at the old commit, (of course these commands will no longer be updated) https://github.com/Jin/Goat-Bot-V2/tree/8ac704f08e70abcaaf663e4127c4e05e4874c588
 - **scripts/cmds/list.js**: 
 - **scripts/cmds/tik.js**: Remove `unnecessary` commands
 
-These commands are really not necessary, it often crashes due to blocking by 3rd party api, visit the websites to make this smoother, although these commands have been removed from the source code in version new, but if you want to edit it, you can still get it back at the old commit, (of course these commands will no longer be updated) https://github.com/ntkhang03/Goat-Bot-V2/tree/8ac704f08e70abcaaf663e4127c4e05e4874c588
+These commands are really not necessary, it often crashes due to blocking by 3rd party api, visit the websites to make this smoother, although these commands have been removed from the source code in version new, but if you want to edit it, you can still get it back at the old commit, (of course these commands will no longer be updated) https://github.com/Jin/Goat-Bot-V2/tree/8ac704f08e70abcaaf663e4127c4e05e4874c588
 - **scripts/cmds/trigger.js**: Remove `unnecessary` commands
 
-These commands are really not necessary, it often crashes due to blocking by 3rd party api, visit the websites to make this smoother, although these commands have been removed from the source code in version new, but if you want to edit it, you can still get it back at the old commit, (of course these commands will no longer be updated) https://github.com/ntkhang03/Goat-Bot-V2/tree/8ac704f08e70abcaaf663e4127c4e05e4874c588
+These commands are really not necessary, it often crashes due to blocking by 3rd party api, visit the websites to make this smoother, although these commands have been removed from the source code in version new, but if you want to edit it, you can still get it back at the old commit, (of course these commands will no longer be updated) https://github.com/Jin/Goat-Bot-V2/tree/8ac704f08e70abcaaf663e4127c4e05e4874c588
 - **scripts/cmds/videofb.js**: Remove `unnecessary` commands
 
-These commands are really not necessary, it often crashes due to blocking by 3rd party api, visit the websites to make this smoother, although these commands have been removed from the source code in version new, but if you want to edit it, you can still get it back at the old commit, (of course these commands will no longer be updated) https://github.com/ntkhang03/Goat-Bot-V2/tree/8ac704f08e70abcaaf663e4127c4e05e4874c588
+These commands are really not necessary, it often crashes due to blocking by 3rd party api, visit the websites to make this smoother, although these commands have been removed from the source code in version new, but if you want to edit it, you can still get it back at the old commit, (of course these commands will no longer be updated) https://github.com/Jin/Goat-Bot-V2/tree/8ac704f08e70abcaaf663e4127c4e05e4874c588
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.5.24
@@ -223,7 +223,7 @@ These commands are really not necessary, it often crashes due to blocking by 3rd
 ### 🗑️ Files Deleted
 - **scripts/cmds/list.js**: 
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.5.23
@@ -238,7 +238,7 @@ These commands are really not necessary, it often crashes due to blocking by 3rd
 ### 🗑️ Files Deleted
 - **scripts/cmds/list.js**: 
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.5.22
@@ -248,7 +248,7 @@ These commands are really not necessary, it often crashes due to blocking by 3rd
 ### 🗑️ Files Deleted
 - **scripts/cmds/list.js**: 
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.5.21
@@ -257,7 +257,7 @@ These commands are really not necessary, it often crashes due to blocking by 3rd
 ### 🗑️ Files Deleted
 - **scripts/cmds/list.js**: 
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.5.20
@@ -268,7 +268,7 @@ These commands are really not necessary, it often crashes due to blocking by 3rd
 ### 🗑️ Files Deleted
 - **scripts/cmds/list.js**: 
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.5.19
@@ -277,7 +277,7 @@ These commands are really not necessary, it often crashes due to blocking by 3rd
 ### 🗑️ Files Deleted
 - **scripts/cmds/list.js**: 
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.5.18
@@ -293,7 +293,7 @@ These commands are really not necessary, it often crashes due to blocking by 3rd
 ### 🗑️ Files Deleted
 - **scripts/cmds/list.js**: 
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.5.17
@@ -366,14 +366,14 @@ Dependencies will be reinstalled for this version.
 - **dashboard/middleware/post.js**: remake dashboard
 - **scripts/cmds/list.js**: 
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.5.16
 ### ⬆️ What's Changed
 - **languages/makeFuncGetLangs.js**: Fix error of language file not found
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.5.15
@@ -385,7 +385,7 @@ Dependencies will be reinstalled for this version.
 - **languages/vi.lang**: languages update
 - **utils.js**: Update utils.js
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.5.14
@@ -393,7 +393,7 @@ Dependencies will be reinstalled for this version.
 - **fb-chat-api/src/listenMqtt.js**: fix event `log:thread-icon` not working
 - **fb-chat-api/utils.js**: fix event `log:thread-icon` not working
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.5.13
@@ -406,7 +406,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/antichangeinfobox.js**: language update
 - **utils.js**: Update utils.js
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.5.12
@@ -427,21 +427,21 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/antichangeinfobox.js**: fix bug
 - **scripts/cmds/ytb.js**: Fix error of not being able to use ytdl-core
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.5.11
 ### ⬆️ What's Changed
 - **bot/login/loadScripts.js**: fix `TypeError: Cannot read properties of null (reading '_host')` (2)
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.5.10
 ### ⬆️ What's Changed
 - **bot/login/login.js**: fix `TypeError: Cannot read properties of null (reading '_host')`
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.5.9
@@ -450,14 +450,14 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/callad.js**: language update, log update
 - **scripts/cmds/gpt.js**: fix cannot use gpt chat when there is only one character
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.5.8
 ### ⬆️ What's Changed
 - **scripts/cmds/warn.js**: language update, Fixed a bug that occurred when warning more than 3 times
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.5.7
@@ -466,7 +466,7 @@ Dependencies will be reinstalled for this version.
 - **bot/login/login.js**: Update login.js
 - **scripts/cmds/setalias.js**: fix not applicable to the whole system
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.5.6
@@ -478,7 +478,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/translate.js**: language update
 - **scripts/cmds/warn.js**: language update, code optimization
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.5.5
@@ -489,7 +489,7 @@ Dependencies will be reinstalled for this version.
 Fixed Sorry, we can't download the video for you because the size is larger than 83MB. Api changed.
 ### Contributors
 - <div style="display: flex; align-items: center;"><a href="https://github.com/illusionghost3">illusionghost3&nbsp;&nbsp;</a> <img src="https://github.com/illusionghost3.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="illusionghost3"></div>
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.5.4
@@ -499,14 +499,14 @@ Fixed Sorry, we can't download the video for you because the size is larger than
 - **scripts/cmds/ytb.js**: Fix cant downloads shorts - by `Sadman-11`
 ### Contributors
 - <div style="display: flex; align-items: center;"><a href="https://github.com/Sadman-11">Sadman-11&nbsp;&nbsp;</a> <img src="https://github.com/Sadman-11.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Sadman-11"></div>
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.5.3
 ### ⬆️ What's Changed
 - **fb-chat-api/src/listenMqtt.js**: fix "TypeError: Cannot read properties of undefined (reading 'get')" when listenMqtt is closed
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.5.2
@@ -521,7 +521,7 @@ Fixed Sorry, we can't download the video for you because the size is larger than
 - **scripts/cmds/setleave.js**: fix can't send attachment
 - **updater.js**: Update updater.js
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.5.1
@@ -536,7 +536,7 @@ Fixed Sorry, we can't download the video for you because the size is larger than
 - **scripts/cmds/help.js**: languages update
 - **scripts/cmds/setwelcome.js**: languages update
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.5.0
@@ -551,14 +551,14 @@ Fixed Sorry, we can't download the video for you because the size is larger than
 - **languages/vi.lang**: language update
 - **scripts/cmds/texttoimage.js**: fix display `undefined`
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.4.28
 ### ⬆️ What's Changed
 - **scripts/cmds/jsontomongodb.js**: fix incorrect database type recognition
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.4.27
@@ -574,21 +574,21 @@ Fixed Sorry, we can't download the video for you because the size is larger than
 - **package.json**: update packages
 - **scripts/cmds/translate.js**: language update
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.4.26
 ### ⬆️ What's Changed
 - **Goat.js**: fix jsonlint not working with folder names with spaces
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.4.25
 ### ⬆️ What's Changed
 - **bot/login/loadData.js**: fix console freezing
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.4.24
@@ -601,7 +601,7 @@ Fixed Sorry, we can't download the video for you because the size is larger than
 - **scripts/cmds/jsontomongodb.js**: fix cannot use command `jsontomongo` and `jsontosqlite`
 - **scripts/cmds/jsontosqlite.js**: fix cannot use command `jsontomongo` and `jsontosqlite`
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.4.23
@@ -623,7 +623,7 @@ Fixed Sorry, we can't download the video for you because the size is larger than
 - **updater.js**: Update updater.js
 - **utils.js**: add new class `GoatBotApis`: call api on https://goatbot.tk
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.4.22
@@ -631,7 +631,7 @@ Fixed Sorry, we can't download the video for you because the size is larger than
 - **dashboard/passport-config.js**: fix can't register dashboard account
 - **database/controller/dashBoardData.js**: fix can't register dashboard account
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.4.21
@@ -643,7 +643,7 @@ Fixed Sorry, we can't download the video for you because the size is larger than
 - **updater.js**: fix can't update to new version
 - **utils.js**: add new method: `isNumber`
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.4.20
@@ -651,7 +651,7 @@ Fixed Sorry, we can't download the video for you because the size is larger than
 - **scripts/cmds/antichangeinfobox.js**: change photo storage method
 - **utils.js**: fix can't uploadImgbb with url
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.4.19
@@ -659,7 +659,7 @@ Fixed Sorry, we can't download the video for you because the size is larger than
 - **dashboard/routes/register.js**: fix can't register dashboard account
 - **database/models/sqlite/global.js**: fix can't register dashboard account
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.4.18
@@ -678,7 +678,7 @@ Fixed Sorry, we can't download the video for you because the size is larger than
 - **scripts/cmds/emojimean.js**: fixes 404 error
 - **utils.js**: edit method `uploadImgbb`, add new class: `CustomError`
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.4.17
@@ -687,7 +687,7 @@ Fixed Sorry, we can't download the video for you because the size is larger than
 - **dashboard/views/dashboard-thread.eta**: Update dashboard-thread.eta
 - **scripts/cmds/cmd.js**: fix cannot install custom command with `cmd` command
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.4.16
@@ -709,7 +709,7 @@ Fixed Sorry, we can't download the video for you because the size is larger than
 - **scripts/cmds/cmd.js**: Bug fixes and code optimization
 - **scripts/cmds/event.js**: Bug fixes and code optimization
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.4.15
@@ -721,7 +721,7 @@ Dependencies will be reinstalled for this version.
 - **package.json**: Update package.json
 - **package-lock.json**: Update package-lock.json
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.4.14
@@ -738,14 +738,14 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/rank.js**: change file storage method with ZippyShare
 - **utils.js**: add new methods `uploadImgbb` and `uploadZippyshare` to utils
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.4.13
 ### ⬆️ What's Changed
 - **database/controller/threadsData.js**: hide console.log
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.4.12
@@ -757,7 +757,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/cmd.js**: fix bot stop working after using cmd command
 - **utils.js**: add new method to utils: `createQueue`
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.4.11
@@ -774,7 +774,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/eval.js**: code optimization
 - **scripts/cmds/event.js**: code optimization
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.4.10
@@ -798,21 +798,21 @@ Dependencies will be reinstalled for this version.
 - **scripts/events/autoUpdateInfoThread.js**: code optimization
 - **utils.js**: code optimization
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.4.9
 ### ⬆️ What's Changed
 - **scripts/cmds/texttoimage.js**: update styleId
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.4.8
 ### ⬆️ What's Changed
 - **scripts/cmds/texttoimage.js**: new command `texttoimage`: create image with your prompt
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.4.7
@@ -820,7 +820,7 @@ Dependencies will be reinstalled for this version.
 - **bot/login/loadScripts.js**: fix console freezing
 - **bot/login/login.js**: fix console freezing
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.4.6
@@ -831,7 +831,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/art.js**: api is no longer working
 - **scripts/cmds/openjourney.js**: api is no longer working
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.4.5
@@ -845,7 +845,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/warn.js**: fix bug
 - **scripts/events/autoUpdateInfoThread.js**: fix bug
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.4.4
@@ -869,7 +869,7 @@ Dependencies will be reinstalled for this version.
 - **fb-chat-api/src/listenMqtt.js**: fix bug
 - **scripts/cmds/adminonly.js**: add subcommand: `adminonly noti`: turn on/off the notification when user is not admin use bot
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.4.3
@@ -879,21 +879,21 @@ Dependencies will be reinstalled for this version.
 - **languages/vi.lang**: languages update
 - **updater.js**: Update updater.js
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.4.2
 ### ⬆️ What's Changed
 - **bot/login/login.js**: hide participantIDs from log
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.4.1
 ### ⬆️ What's Changed
 - **bot/login/login.js**: fix `Please restore the crypto.c reateCipher function to the original!`
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.4.0
@@ -904,7 +904,7 @@ Dependencies will be reinstalled for this version.
 - **restoreBackup.js**: add new script `restoreBackup.js`: restore restore the previous backup version
 - **scripts/cmds/shortcut.js**: fix bug
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.3.22
@@ -914,7 +914,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/events/checkwarn.js**: fix checkwarn not working
 - **scripts/events/welcome.js**: Update welcome.js
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.3.21
@@ -923,14 +923,14 @@ Dependencies will be reinstalled for this version.
 - **bot/login/loadScripts.js**: fixes error: `TypeError: onFirstChat is not a function`
 - **bot/login/login.js**: fixes error: `TypeError: onFirstChat is not a function`
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.3.20
 ### ⬆️ What's Changed
 - **bot/handler/handlerEvents.js**: fixes error: `TypeError: onFirstChat is not a function`
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.3.19
@@ -953,7 +953,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/cmd.js**: add new handle: `onFirstChat`
 - **utils.js**: code optimization
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.3.18
@@ -961,7 +961,7 @@ Dependencies will be reinstalled for this version.
 - **fb-chat-api/src/listenMqtt.js**: fix infinite loop Stop listenMqtt
 - **scripts/cmds/getfbstate.js**: add new alias `getcookie`
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.3.17
@@ -972,7 +972,7 @@ Dependencies will be reinstalled for this version.
 - **database/controller/usersData.js**: fix bug `cannot read property 'name' of undefined`
 - **scripts/cmds/getfbstate.js**: add new subcommand: `cookies`, `string`
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.3.16
@@ -985,7 +985,7 @@ Dependencies will be reinstalled for this version.
 - **database/controller/usersData.js**: add message queue for save data
 - **scripts/cmds/help.js**: fix bug & language update
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.3.15
@@ -1012,7 +1012,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/openjourney.js**: language update $ handle error
 - **updater.js**: Update updater.js
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.3.14
@@ -1027,7 +1027,7 @@ Dependencies will be reinstalled for this version.
 - **fb-chat-api/src/unfriend.js**: add function `unfriend` for fca
 - **updater.js**: Update updater.js
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.3.13
@@ -1036,7 +1036,7 @@ Dependencies will be reinstalled for this version.
 - **languages/vi.lang**: language update
 - **updater.js**: Update updater.js
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.3.12
@@ -1059,7 +1059,7 @@ Dependencies will be reinstalled for this version.
 - **replit.nix**: Update replit.nix
 - **scripts/cmds/thread.js**: fix could not find thread joined
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.3.11
@@ -1068,7 +1068,7 @@ Dependencies will be reinstalled for this version.
 - **bot/login/login.js**: Update login.js
 - **index.js**: Update index.js
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.3.10
@@ -1077,7 +1077,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/gpt.js**: Don't let others interfere with your chats and gpt
 - **scripts/cmds/rank.js**: language update
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.3.9
@@ -1090,7 +1090,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/prefix.js**: language update
 - **scripts/cmds/sendnoti.js**: add new sub-command `list`: show list of notification groups you are managing, and `info`: view info of notification group
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.3.8
@@ -1099,7 +1099,7 @@ Dependencies will be reinstalled for this version.
 - **fb-chat-api/src/listenMqtt.js**: Update listenMqtt.js
 - **scripts/cmds/gpt.js**: new command `gpt`: use open ai api model `gpt-3.5-turbo`
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.3.7
@@ -1111,7 +1111,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/ban.js**: language update
 - **scripts/cmds/guessnumber.js**: Official version released
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.3.6
@@ -1146,7 +1146,7 @@ Dependencies will be reinstalled for this version.
 - **languages/en.lang**: language update
 - **languages/vi.lang**: language update
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.3.5
@@ -1170,7 +1170,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/customrankcard.js**: fix file url from facebook expires after some time
 - **scripts/cmds/rank.js**: fix file url from facebook expires after some time
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.3.4
@@ -1186,7 +1186,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/ban.js**: Release the official version
 - **utils.js**: update function `convertTime`
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.3.3
@@ -1198,7 +1198,7 @@ Dependencies will be reinstalled for this version.
 - **database/controller/globalData.js**: fix cannot use database sqlite
 - **scripts/cmds/update.js**: command ability
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.3.2
@@ -1218,7 +1218,7 @@ Dependencies will be reinstalled for this version.
 - **fb-chat-api/src/listenMqtt.js**: and fix error listenMqtt
 - **fb-chat-api/utils.js**: hiden log error and fix error listenMqtt
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.3.1
@@ -1230,7 +1230,7 @@ Dependencies will be reinstalled for this version.
 }
 ```
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.3.0
@@ -1305,7 +1305,7 @@ Dependencies will be reinstalled for this version.
 - **package.json**: 
 - **package-lock.json**: 
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.43
@@ -1321,7 +1321,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/guessnumber.js**: added ranking function for game `guessnumber`
 - **scripts/cmds/backupdata.js**: new command: `backupdata` - backup bot data to json file
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.42
@@ -1334,7 +1334,7 @@ Dependencies will be reinstalled for this version.
 - **languages/vi.lang**: language update
 - **scripts/cmds/openjourney.js**: language update
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.41
@@ -1344,7 +1344,7 @@ Dependencies will be reinstalled for this version.
 - **package.json**: change the fca dependency package
 - **bot/login/login.js**: fix unable to reconnect to listenMqtt
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.40
@@ -1357,7 +1357,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/events/onEvent.js**: add category
 - **scripts/events/welcome.js**: add category
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.39
@@ -1366,7 +1366,7 @@ Dependencies will be reinstalled for this version.
 - **bot/login/loadScripts.js**: 
 - **scripts/cmds/openjourney.js**: fix error can't create image
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.38
@@ -1374,7 +1374,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/ytb.js**: nothing change
 - **bot/login/login.js**: fix console freezing when login
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.37
@@ -1387,14 +1387,14 @@ Dependencies will be reinstalled for this version.
 - **package.json**: fix can't use `ytb` command
 - **scripts/cmds/openjourney.js**: new command: `openjourney` - create image from text
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.36
 ### ⬆️ What's Changed
 - **bot/login/login.js**: fix bug
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.35
@@ -1436,7 +1436,7 @@ Dependencies will be reinstalled for this version.
 ```
 - **bot/login/handlerWhenListenHasError.js**: added the function to send notifications about email, telegram,... when mqtt server stops working due to account problems
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.34
@@ -1445,7 +1445,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/events/logsbot.js**: nothing change
 - **scripts/cmds/ban.js**: add unban feature
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.33
@@ -1462,7 +1462,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/help.js**: Update new features, use command `help help` to see details
 - **scripts/cmds/uid.js**: Update new features, use command `help help` to see details
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.32
@@ -1477,7 +1477,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/cmd.js**: support install command from `savetext.net` and `pastebin.com`
 - **scripts/cmds/shortcut.js**: add filter when exporting list (use `help shortcut` command to see details)
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.31
@@ -1499,7 +1499,7 @@ Dependencies will be reinstalled for this version.
 - **dashboard/app.js**: 
 - **bot/login/handlerWhenListenHasError.js**: added example how to use handlerWhenListenHasError
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.30
@@ -1519,7 +1519,7 @@ Dependencies will be reinstalled for this version.
 - **database/controller/globalData.js**: fixed bugs
 - **database/controller/usersData.js**: 
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.29
@@ -1530,14 +1530,14 @@ Dependencies will be reinstalled for this version.
 ### 🗑️ Files Deleted
 - **scripts/cmds/videofb.js**: 
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.28
 ### ⬆️ What's Changed
 - **scripts/cmds/filteruser.js**: fix bug kick admin
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.27
@@ -1547,7 +1547,7 @@ Dependencies will be reinstalled for this version.
 - **languages/en.lang**: language update
 - **languages/vi.lang**: language update
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.26
@@ -1557,14 +1557,14 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/event.js**: fixed bugs and add new feature: `event install <fileName> <code>`: install new event command with code
 - **scripts/cmds/help.js**: language update
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.25
 ### ⬆️ What's Changed
 - **scripts/cmds/update.js**: new command 'Check for and install updates for the chatbot' made by `Chat GPT`
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.24
@@ -1572,14 +1572,14 @@ Dependencies will be reinstalled for this version.
 - **scripts/events/welcome.js**: language update
 - **bot/handler/handlerEvents.js**: language update
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.23
 ### ⬆️ What's Changed
 - **scripts/cmds/ytb.js**: fixed error `An error has occurred: ETIMEDOUT`
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.22
@@ -1590,14 +1590,14 @@ Dependencies will be reinstalled for this version.
 - **bot/login/login.js**: fixed can't login
 - **bot/login/loadScripts.js**: 
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.21
 ### ⬆️ What's Changed
 - **scripts/cmds/antichangeinfobox.js**: fixes error
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.20
@@ -1608,7 +1608,7 @@ Dependencies will be reinstalled for this version.
 ### 🗑️ Files Deleted
 - **fb-chat-api**: 
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.19
@@ -1667,7 +1667,7 @@ Dependencies will be reinstalled for this version.
 - **fb-chat-api/utils.js**: 
 - **bot/login/login.js**: replace package `fb-chat-api`
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.18
@@ -1675,14 +1675,14 @@ Dependencies will be reinstalled for this version.
 - **package.json**: package `fb-chat-api` no longer exists
 - **package-lock.json**: package `fb-chat-api` no longer exists
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.17
 ### ⬆️ What's Changed
 - **package.json**: change package `fb-chat-api` to github repo
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.16
@@ -1696,7 +1696,7 @@ Dependencies will be reinstalled for this version.
 - **bot/login/loadScripts.js**: update
 - **.vscode/GoatBot.code-snippets**: new snippets: GoatBotEventCreate
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.15
@@ -1711,14 +1711,14 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/sendnoti.js**: fixes admin bot can't send notification
 - **languages/cmds/en.js**: language update
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.14
 ### ⬆️ What's Changed
 - **bot/login/login.js**: fixed error gban check
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.13
@@ -1728,28 +1728,28 @@ Dependencies will be reinstalled for this version.
 - **languages/cmds/en.js**: language update
 - **scripts/cmds/filteruser.js**: Fixed a bug that could not delete members whose account was locked & language update
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.12
 ### ⬆️ What's Changed
 - **scripts/cmds/ytb.js**: fixes error can't download video
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.11
 ### ⬆️ What's Changed
 - **scripts/cmds/shortcut.js**: language update
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.10
 ### ⬆️ What's Changed
 - **utils.js**: update shorten url function
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.9
@@ -1760,7 +1760,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/adduser.js**: language update
 - **scripts/cmds/help.js**: language update
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.8
@@ -1768,7 +1768,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/callad.js**: language update
 - **languages/cmds/en.js**: language update
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.7
@@ -1777,7 +1777,7 @@ Dependencies will be reinstalled for this version.
 - **languages/cmds/vi.js**: language update
 - **scripts/cmds/warn.js**: language update
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.6
@@ -1793,28 +1793,28 @@ Dependencies will be reinstalled for this version.
 - **languages/vi.lang**: language update
 - **languages/en.lang**: language update
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.5
 ### ⬆️ What's Changed
 - **scripts/cmds/ytb.js**: fixes error `An error occurred when executing onReply at command "ytb"`
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.4
 ### ⬆️ What's Changed
 - **scripts/cmds/tik.js**: fixes error `❌ An error occurred, please try again later`
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.3
 ### ⬆️ What's Changed
 - **scripts/cmds/ytb.js**: fixes error `An error occured when executing command "ytb"`
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.2
@@ -1830,7 +1830,7 @@ Dependencies will be reinstalled for this version.
 - **updater.js**: automatically install dependencies after update
 - **index.js**: show author information
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.1
@@ -1843,7 +1843,7 @@ Dependencies will be reinstalled for this version.
 - **bot/login/checkLiveCookie.js**: update & code optimization
 - **scripts/cmds/art.js**: new command: Convert photos into anime drawings
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.2.0
@@ -1855,7 +1855,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/emojimix.js**: change my server domain
 - **scripts/cmds/emojimean.js**: fix bug
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.1.40
@@ -1863,7 +1863,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/customrankcard.js**: fixes can't select photo by replying to message
 - **scripts/cmds/rank.js**: fixes not being able to optional alphaSubcolor = 0
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.1.39
@@ -1871,7 +1871,7 @@ Dependencies will be reinstalled for this version.
 - **updater.js**: update updater
 - **scripts/cmds/help.js**: fix can't automatically create new folder when it doesn't exist
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.1.38
@@ -1888,7 +1888,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/assets/guide/setname/guide2.png**: change photo storage address
 - **scripts/cmds/assets/guide/setwelcome/guide1.png**: change photo storage address
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.1.37
@@ -1905,14 +1905,14 @@ Dependencies will be reinstalled for this version.
 - **utils.js**: 
 - **scripts/cmds/assets/guide/customrankcard/guide1.jpg**: 
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.1.36
 ### ⬆️ What's Changed
 - **scripts/cmds/emojimean.js**: automatically select the highest resolution image
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.1.35
@@ -1926,7 +1926,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/ytb.js**: Delete the ytdl-core package & fixes error `Cannot Search Video`
 - **scripts/cmds/emojimean.js**: New command: Searching for the meaning of Emoji, the data is taken from `https://www.emojiall.com/`
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.1.34
@@ -1934,7 +1934,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/tik.js**: fixes error: `Error: connect ECONNREFUSED 0.0.0.0:443`
 - **utils.js**: add `shortenURL` feature
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.1.33
@@ -1946,7 +1946,7 @@ Dependencies will be reinstalled for this version.
 - **database/controller/usersData.js**: minor bug fixes
 - **scripts/events/logsbot.js**: fixes bot changing nickname twice when added to new chat box
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.1.32
@@ -1970,7 +1970,7 @@ Dependencies will be reinstalled for this version.
 - **dashboard/views/verifyfbid-submit-code.eta**: code optimization
 - **dashboard/views/verifyfbid.eta**: code optimization
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.1.31
@@ -1983,14 +1983,14 @@ Dependencies will be reinstalled for this version.
 {}
 ```
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.1.30
 ### ⬆️ What's Changed
 - **Goat.js**: fixed `TypeError: Cannot read property 'match' of null`
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.1.29
@@ -2012,14 +2012,14 @@ Dependencies will be reinstalled for this version.
 }
 ```
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.1.28
 ### ⬆️ What's Changed
 - **database/controller/threadsData.js**: bug fixes refreshInfo function: missing `userID` parameter when refreshing members information leads to huge data generation
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.1.27
@@ -2033,7 +2033,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/shortcut.js**: fixes the error when sending the link
 - **scripts/cmds/thread.js**: can search and filter bot groups that are still participating in the group
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.1.26
@@ -2051,7 +2051,7 @@ Dependencies will be reinstalled for this version.
 - **index.js**: 
 - **scripts/cmds/notification.js**: language update
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.1.25
@@ -2061,7 +2061,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/jsontosqlite.js**: fixed error: `TypeError: Cannot read property 'globalData' of undefined` when convert global data
 - **scripts/cmds/jsontomongodb.js**: fixed error: `TypeError: Cannot read property 'globalData' of undefined` when convert global data
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.1.24
@@ -2076,7 +2076,7 @@ Dependencies will be reinstalled for this version.
 - **languages/en.lang**: language update
 - **languages/vi.lang**: language update
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.1.23
@@ -2089,7 +2089,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/sendnoti.js**: bugs fixes & language update
 - **utils.js**: bugs fixes `findUid` & language update
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.1.22
@@ -2101,7 +2101,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/busy.js**: bug fixes & code optimization
 - **scripts/cmds/rules.js**: respond with the order number to see that rule
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.1.21
@@ -2115,7 +2115,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/help.js**: language update
 - **scripts/cmds/setlang.js**: fixes not saving data when changing language of chat group
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.1.20
@@ -2129,7 +2129,7 @@ Dependencies will be reinstalled for this version.
 }
 ```
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.1.19
@@ -2147,7 +2147,7 @@ Dependencies will be reinstalled for this version.
 }
 ```
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.1.18
@@ -2171,7 +2171,7 @@ Dependencies will be reinstalled for this version.
 - **index.js**: language update
 - **scripts/cmds/adminonly.js**: 
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.1.17
@@ -2191,7 +2191,7 @@ Dependencies will be reinstalled for this version.
 - **logger/loading.js**: 
 - **logger/log.js**: 
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.1.16
@@ -2199,14 +2199,14 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/hubble.js**: update hubble data url
 - **scripts/cmds/assets/font/BeVietnamPro-Bold.ttf**: add font
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.1.15
 ### ⬆️ What's Changed
 - **scripts/cmds/rank.js**: remove rank card creation with api
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.1.14
@@ -2214,7 +2214,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/translate.js**: can translate any message by reaction "🌐" or custom by you to message
 - **scripts/cmds/rules.js**: fixes bugs
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.1.13
@@ -2225,7 +2225,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/hubble.js**: new command: get image from hubble telescope
 - **scripts/cmds/translate.js**: new command: translate text
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.1.12
@@ -2234,7 +2234,7 @@ Dependencies will be reinstalled for this version.
 ### 🗑️ Files Deleted
 - **scripts/cmds/simsimi.js**: delete command
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.1.11
@@ -2242,7 +2242,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/setalias.js**: fixes bugs
 - **bot/handler/handlerEvents.js**: language update
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.1.10
@@ -2251,14 +2251,14 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/shortcut.js**: fixes cannot delete/remove shortcut
 - **scripts/cmds/avatar.js**: language udpate
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.1.9
 ### ⬆️ What's Changed
 - **scripts/cmds/shortcut.js**: fixes with attachment giving error
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.1.8
@@ -2269,7 +2269,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/shortcut.js**: language update
 - **languages/cmds/en.js**: language update
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.1.7
@@ -2291,7 +2291,7 @@ Dependencies will be reinstalled for this version.
 - **languages/vi.lang**: language update
 - **utils.js**: language update
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.1.6
@@ -2304,7 +2304,7 @@ Dependencies will be reinstalled for this version.
 - **languages/en.lang**: language update
 - **scripts/events/leave.js**: language update
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.1.5
@@ -2317,14 +2317,14 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/daily.js**: new command get daily coins and exp
 - **scripts/cmds/busy.js**: language update
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.1.4
 ### ⬆️ What's Changed
 - **scripts/cmds/busy.js**: language update
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.1.3
@@ -2342,7 +2342,7 @@ Dependencies will be reinstalled for this version.
 - **languages/en.lang**: language update
 - **languages/vi.lang**: language update
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.1.2
@@ -2352,7 +2352,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/events/leave.js**: language update
 - **scripts/events/welcome.js**: language update
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.1.1
@@ -2367,7 +2367,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/events/logsbot.js**: added languages
 - **scripts/events/welcome.js**: added languages
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.1.0
@@ -2442,7 +2442,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/weather.js**: add custom language
 - **scripts/cmds/ytb.js**: add custom language
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.0.30
@@ -2450,7 +2450,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/ytb.js**: fixes `TypeError: Cannot read property 'length' of undefined`
 - **scripts/cmds/customrankcard.js**: 
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.0.29
@@ -2461,7 +2461,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/setavt.js**: fixes `TypeError: Cannot read property 'startsWith' of undefined`
 - **scripts/cmds/ytb.js**: no need to use youtube api key v3 anymore
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.0.28
@@ -2470,14 +2470,14 @@ Dependencies will be reinstalled for this version.
 ### 🗑️ Files Deleted
 - **scripts/cmds/instagram.js**: api is no longer working
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.0.27
 ### ⬆️ What's Changed
 - **bot/login/login.js**: fixes console freeze error
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.0.26
@@ -2489,7 +2489,7 @@ Dependencies will be reinstalled for this version.
 - **bot/handler/handlerEvents.js**: add Argument and Parameter `globalModel`, `globalData`
 - **bot/login/login.js**: add Argument and Parameter `globalModel`, `globalData`
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.0.25
@@ -2517,7 +2517,7 @@ Dependencies will be reinstalled for this version.
 - **updater.js**: update updater
 - **update.js**: update updater
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.0.24
@@ -2525,7 +2525,7 @@ Dependencies will be reinstalled for this version.
 - **update.js**: update handle update
 - **languages/en.lang**: 
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.0.23
@@ -2572,7 +2572,7 @@ Dependencies will be reinstalled for this version.
 - **dashboard/routes/api.js**: 
 - **dashboard/app.js**: 
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.0.22
@@ -2583,14 +2583,14 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/shortcut.js**: fixes bug
 - **scripts/cmds/simsimi.js**: 
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.0.21
 ### ⬆️ What's Changed
 - **scripts/cmds/refresh.js**: edit role 0 (everyone) to 1 (admin only)
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.0.20
@@ -2599,21 +2599,21 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/filteruser.js**: new command
 - **scripts/cmds/refresh.js**: new command
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.0.19
 ### ⬆️ What's Changed
 - **scripts/cmds/tik.js**: fixes `Error: The first argument (url) must be a string`
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.0.18
 ### ⬆️ What's Changed
 - **utils.js**: fixes error `CREDENTIALS: Please provide a valid apiKey in file config.json`
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.0.17
@@ -2626,7 +2626,7 @@ Dependencies will be reinstalled for this version.
 - **index.js**: Update error reporting system
 - **utils.js**: Update error reporting system
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.0.16
@@ -2634,7 +2634,7 @@ Dependencies will be reinstalled for this version.
 - **index.js**: 
 - **scripts/cmds/moon.js**: fixes error `TypeError: Cannot read property 'slice' of undefined`
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.0.15
@@ -2644,7 +2644,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/cmd.js**: fixes error `TypeError: Cannot read properties of undefined (reading 'toLowerCase')`
 - **scripts/cmds/event.js**: fixes error `TypeError: Cannot read properties of undefined (reading 'toLowerCase')``
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.0.14
@@ -2653,7 +2653,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/cmd.js**: fixes error: `TypeError: Cannot read property 'indexOf' of undefined`
 - **index.js**: added notification feature when new update is available
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.0.13
@@ -2663,7 +2663,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/cmd.js**: add function `install`: Download and install a script from a url, url is the path to the script (raw)
 - **scripts/cmds/event.js**: add function `install`: Download and install a script from a url, url is the path to the script (raw)
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.0.12
@@ -2671,7 +2671,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/anime.js**: fixes error Dissallowed props: `attachent`
 - **scripts/cmds/videofb.js**: 
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.0.11
@@ -2681,7 +2681,7 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/avatar.js**: new command create avatar anime
 - **scripts/cmds/simsimi.js**: 
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.0.10
@@ -2689,14 +2689,14 @@ Dependencies will be reinstalled for this version.
 - **bot/handler/handlerEvents.js**: 
 - **scripts/cmds/simsimi.js**: new command
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.0.9
 ### ⬆️ What's Changed
 - **scripts/cmds/tik.js**: add slide download feature (images)
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.0.8
@@ -2704,28 +2704,28 @@ Dependencies will be reinstalled for this version.
 - **utils.js**: update system translate
 - **scripts/cmds/adduser.js**: update system translate
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.0.7
 ### ⬆️ What's Changed
 - **scripts/cmds/videofb.js**: fixes error Cannot download video
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.0.6
 ### ⬆️ What's Changed
 - **scripts/cmds/ytb.js**: fixes error `AxiosError: unable to verify the first certificate`
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.0.5
 ### ⬆️ What's Changed
 - **bot/login/login.js**: fixes duplicate login
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.0.4
@@ -2735,25 +2735,25 @@ Dependencies will be reinstalled for this version.
 - **scripts/cmds/loadconfig.js**: fixes error `Cannot read properties of undefined (reading 'dirConfig')`
 - **scripts/cmds/tik.js**: fixes api
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.0.3
 ### ⬆️ What's Changed
 - **bot/handler/handlerEvents.js**: fixes terminal freeze
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.0.2
 ### ⬆️ What's Changed
 - **bot/login/loadData.js**: fixes terminal freeze
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>
 
 ---
 ## 📦 Version 1.0.1
 ### ⬆️ What's Changed
 - **bot/login/login.js**: fixes terminal freeze
 ### Contributors
-- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+- <div style="display: flex; align-items: center;"><a href="https://github.com/Jin">Jin&nbsp;&nbsp;</a> <img src="https://github.com/Jin.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="Jin"></div>

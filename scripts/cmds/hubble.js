@@ -13,7 +13,7 @@ module.exports = {
 	config: {
 		name: "hubble",
 		version: "1.3",
-		author: "NTKhang",
+		author: "Jin",
 		countDown: 5,
 		role: 0,
 		description: {
@@ -39,7 +39,7 @@ module.exports = {
 
 	onLoad: async function () {
 		if (!fs.existsSync(pathData)) {
-			const res = await axios.get('https://raw.githubusercontent.com/ntkhang03/Goat-Bot-V2/main/scripts/cmds/assets/hubble/nasa.json');
+			const res = await axios.get('https://raw.githubusercontent.com/NTKhang03/Goat-Bot-V2/main/scripts/cmds/assets/hubble/nasa.json');
 			fs.writeFileSync(pathData, JSON.stringify(res.data, null, 2));
 		}
 		hubbleData = JSON.parse(fs.readFileSync(pathData));

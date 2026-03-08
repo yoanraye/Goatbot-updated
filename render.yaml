@@ -1,0 +1,18 @@
+services:
+  - type: web
+    name: rika-bot
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: APPSTATE
+        sync: false
+        description: "The content of your account.txt file (JSON cookie array)"
+      - key: NODE_ENV
+        value: production
+      - key: TZ
+        value: Asia/Dhaka
+      - key: MONGODB_URI
+        sync: false
+        description: "Your MongoDB Atlas connection string for data persistence"

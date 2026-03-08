@@ -5,7 +5,7 @@ module.exports = {
     name: "edit",
     aliases: ["imgedit"],
     version: "2.4",
-    author: "Neoaz ゐ", //API by RIFAT
+    author: "Jin", //API by Jin
     countDown: 15,
     role: 0,
     shortDescription: { en: "Edit image with Seedream V4" },

@@ -2,7 +2,7 @@ module.exports = {
 	config: {
 		name: "count",
 		version: "1.3",
-		author: "NTKhang",
+		author: "Jin",
 		countDown: 5,
 		role: 0,
 		description: {
@@ -144,7 +144,8 @@ module.exports = {
 		});
 	},
 
-	onChat: async ({ usersData, threadsData, event }) => {
+	onChat: async ({ usersData, threadsData, event, api }) => {
+		if (event.senderID == api.getCurrentUserID()) return;
 		const { senderID, threadID } = event;
 		const members = await threadsData.get(threadID, "members");
 		const findMember = members.find(user => user.userID == senderID);

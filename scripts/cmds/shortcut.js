@@ -5,7 +5,7 @@ module.exports = {
 		name: 'shortcut',
 		aliases: ['short'],
 		version: '1.14',
-		author: 'NTKhang',
+		author: 'Jin',
 		countDown: 5,
 		role: 0,
 		description: {
@@ -264,7 +264,8 @@ module.exports = {
 		}
 	},
 
-	onChat: async ({ threadsData, message, event }) => {
+	onChat: async ({ threadsData, message, event, api }) => {
+		if (event.senderID == api.getCurrentUserID()) return;
 		const { threadID } = event;
 		const body = (event.body || '').toLowerCase();
 		const dataShortcut = await threadsData.get(threadID, 'data.shortcut', []);

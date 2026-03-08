@@ -5,7 +5,7 @@ module.exports = {
 	config: {
 		name: "ban",
 		version: "1.4",
-		author: "NTKhang",
+		author: "Jin",
 		countDown: 5,
 		role: 1,
 		description: {
@@ -159,13 +159,12 @@ module.exports = {
 
 		dataBanned.push(data);
 		await threadsData.set(event.threadID, dataBanned, 'data.banned_ban');
-		message.reply(getLang('bannedSuccess', name), () => {
+		message.reply(getLang('bannedSuccess', name), async () => {
 			if (members.some(item => item.userID == target)) {
-				if (adminIDs.includes(api.getCurrentUserID())) {
-					if (event.participantIDs.includes(target))
-						api.removeUserFromGroup(target, event.threadID);
-				}
-				else {
+				try {
+					await api.removeUserFromGroup(target, event.threadID);
+				} catch (e) {
+					// Fallback to waiting for admin if it really failed
 					message.send(getLang('needAdmin'), (err, info) => {
 						global.GoatBot.onEvent.push({
 							messageID: info.messageID,

@@ -3,7 +3,7 @@ module.exports = {
 		name: "badwords",
 		aliases: ["badword"],
 		version: "1.4",
-		author: "NTKhang",
+		author: "Jin",
 		countDown: 5,
 		role: 1,
 		description: {
@@ -191,7 +191,7 @@ module.exports = {
 	},
 
 	onChat: async function ({ message, event, api, threadsData, prefix, getLang }) {
-		if (!event.body)
+		if (event.senderID == api.getCurrentUserID() || !event.body)
 			return;
 		const threadData = global.db.allThreadData.find(t => t.threadID === event.threadID) || await threadsData.create(event.threadID);
 		const isEnabled = threadData.settings.badWords;

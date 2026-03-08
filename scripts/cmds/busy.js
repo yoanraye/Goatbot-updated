@@ -5,7 +5,7 @@ module.exports = {
 	config: {
 		name: "busy",
 		version: "1.6",
-		author: "NTKhang",
+		author: "Jin",
 		countDown: 5,
 		role: 0,
 		description: {
@@ -59,7 +59,8 @@ module.exports = {
 		);
 	},
 
-	onChat: async ({ event, message, getLang }) => {
+	onChat: async ({ event, message, getLang, api }) => {
+		if (event.senderID == api.getCurrentUserID()) return;
 		const { mentions } = event;
 
 		if (!mentions || Object.keys(mentions).length == 0)

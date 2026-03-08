@@ -5,7 +5,7 @@ module.exports = {
                 name: "spamban",
                 aliases: ["unspam", "spamlist"],
                 version: "2.0",
-                author: "NeoKEX",
+                author: "Jin",
                 countDown: 5,
                 role: 2,
                 description: {
@@ -93,8 +93,10 @@ module.exports = {
 
                         case "unban":
                         case "-u": {
-                                const threadID = args[1];
-                                if (!threadID || isNaN(threadID)) {
+                                let threadID = args[1];
+                                if (!threadID) threadID = event.threadID;
+
+                                if (isNaN(threadID)) {
                                         return message.reply(getLang("invalidThreadID"));
                                 }
 

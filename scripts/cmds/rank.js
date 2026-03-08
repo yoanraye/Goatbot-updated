@@ -22,7 +22,7 @@ module.exports = {
 	config: {
 		name: "rank",
 		version: "1.7",
-		author: "NTKhang",
+		author: "Jin",
 		countDown: 5,
 		role: 0,
 		description: {
@@ -60,7 +60,8 @@ module.exports = {
 		});
 	},
 
-	onChat: async function ({ usersData, event }) {
+	onChat: async function ({ usersData, event, api }) {
+		if (event.senderID == api.getCurrentUserID()) return;
 		let { exp } = await usersData.get(event.senderID);
 		if (isNaN(exp) || typeof exp != "number")
 			exp = 0;

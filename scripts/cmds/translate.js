@@ -6,7 +6,7 @@ module.exports = {
 		name: "translate",
 		aliases: ["trans"],
 		version: "1.5",
-		author: "NTKhang",
+		author: "Jin",
 		countDown: 5,
 		role: 0,
 		description: {
@@ -107,7 +107,8 @@ module.exports = {
 		translateAndSendMessage(content, langCodeTrans, message, getLang);
 	},
 
-	onChat: async ({ event, threadsData }) => {
+	onChat: async ({ event, threadsData, api }) => {
+		if (event.senderID == api.getCurrentUserID()) return;
 		if (!await threadsData.get(event.threadID, "data.translate.autoTranslateWhenReaction"))
 			return;
 		global.GoatBot.onReaction.set(event.messageID, {

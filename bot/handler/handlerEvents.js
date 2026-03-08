@@ -310,7 +310,7 @@ module.exports = function (api, threadModel, userModel, dashBoardModel, globalMo
                         // —————————— CHECK SPAM BANNED THREAD —————————— //
                         if (isGroup) {
                                 const isSpamBanned = await checkSpamBannedThread(threadID, globalData);
-                                if (isSpamBanned) {
+                                if (isSpamBanned && !GoatBot.config.adminBot.includes(senderID)) {
                                         if (!hideNotiMessage.threadBanned)
                                                 message.reply("This group is temporarily banned for command spam.");
                                         return;
@@ -457,9 +457,9 @@ module.exports = function (api, threadModel, userModel, dashBoardModel, globalMo
                                         else if (needRole == 2)
                                                 return await message.reply(utils.getText({ lang: langCode, head: "handlerEvents" }, "onlyAdminBot2", commandName));
                                         else if (needRole == 3)
-                                                return await message.reply("This command requires premium access.");
+                                                return await message.reply("━━━━━━━━━━━━━━━\n  ⚠️ PERMISSION DENIED ⚠️\n━━━━━━━━━━━━━━━\n\nOnly those with Admin Authority can unlock this command!\n━━━━━━━━━━━━━━━");
                                         else if (needRole == 4)
-                                                return await message.reply("Developers only.");
+                                                return await message.reply("━━━━━━━━━━━━━━━\n  ⚠️ PERMISSION DENIED ⚠️\n━━━━━━━━━━━━━━━\n\nOnly those with Admin Authority can unlock this command!\n━━━━━━━━━━━━━━━");
                                 }
                                 else {
                                         return true;

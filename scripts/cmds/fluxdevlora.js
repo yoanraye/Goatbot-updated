@@ -5,7 +5,7 @@ module.exports = {
     name: "fluxdevlora",
     aliases: ["devlora", "fdl"],
     version: "1.0",
-    author: "Neoaz ゐ", //API by RIFAT
+    author: "Jin", //API by Jin
     countDown: 10,
     role: 0,
     shortDescription: { en: "Generate AI image with Flux Dev LoRA" },

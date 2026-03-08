@@ -5,7 +5,7 @@ module.exports = {
     name: "fluxkontextproedit",
     aliases: ["kontextproedit", "fkpe"],
     version: "1.0",
-    author: "Neoaz ゐ", //API by RIFAT
+    author: "Jin", //API by Jin
     countDown: 10,
     role: 0,
     shortDescription: { en: "Edit image with Flux Kontext Pro Edit" },

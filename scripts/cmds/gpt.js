@@ -9,7 +9,7 @@ module.exports = {
     name: "gpt",
     aliases: ["gpt1.5", "gptimg"],
     version: "1.0", 
-    author: "NeoKEX",
+    author: "Jin",
     countDown: 15,
     role: 0,
     longDescription: "Generate an image using the GPT 1.5 model.",

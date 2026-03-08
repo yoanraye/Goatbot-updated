@@ -1,4 +1,4 @@
-^cmd install gone.js const axios = require("axios");
+const axios = require("axios");
 const fs = require("fs-extra");
 const path = require("path");
 
@@ -6,7 +6,7 @@ module.exports = {
         config: {
                 name: "gone",
                 version: "1.0",
-                author: "NeoKEX",
+                author: "Jin",
                 countDown: 5,
                 role: 0,
                 longDescription: "Stream an image as response.",

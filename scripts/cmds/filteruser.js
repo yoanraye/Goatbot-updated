@@ -6,7 +6,7 @@ module.exports = {
 	config: {
 		name: "filteruser",
 		version: "1.6",
-		author: "NTKhang",
+		author: "Jin",
 		countDown: 5,
 		role: 1,
 		description: {
@@ -43,8 +43,7 @@ module.exports = {
 
 	onStart: async function ({ api, args, threadsData, message, event, commandName, getLang }) {
 		const threadData = await threadsData.get(event.threadID);
-		if (!threadData.adminIDs.includes(api.getCurrentUserID()))
-			return message.reply(getLang("needAdmin"));
+		// Check removed to allow direct attempt
 
 		if (!isNaN(args[0])) {
 			message.reply(getLang("confirm", args[0]), (err, info) => {

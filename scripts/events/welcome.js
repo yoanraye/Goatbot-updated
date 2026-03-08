@@ -335,7 +335,7 @@ module.exports = {
     config: {
         name: "welcome",
         version: "1.3",
-        author: "Neoaz ゐ",//Adapted from @procoder Allou Mohammed
+        author: "Jin",//Adapted from @procoder Jin
         category: "events"
     },
     
@@ -357,7 +357,7 @@ module.exports = {
     },
 
     onStart: async ({
-        threadsData, event, message, usersData, getLang
+        threadsData, event, message, usersData, getLang, api
     }) => {
         const type = "log:subscribe";
         if (event.logMessageType != type) return;
@@ -371,6 +371,8 @@ module.exports = {
             const threadName = threadsInfo.threadName;
             const addedList = event.logMessageData.addedParticipants || [];
             const joined = addedList[0]?.userFbId;
+            const botID = api.getCurrentUserID();
+            if (joined == botID) return;
             const by = event.author;
             if (!joined) return;
             const img1 = await usersData.getAvatarUrl(joined).catch(() => null);

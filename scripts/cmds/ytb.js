@@ -15,7 +15,7 @@ module.exports = {
     name: "youtube",
     aliases: ["ytb"],
     version: "0.0.9",
-    author: "ArYAN",
+    author: "Jin",
     countDown: 5,
     role: 0,
     description: { en: "Search and download YouTube video/audio" },

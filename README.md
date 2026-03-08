@@ -10,17 +10,17 @@
     <a href="https://nodejs.org/dist/v20.0.0">
       <img src="https://img.shields.io/badge/Node.js-20.x-brightgreen.svg?style=for-the-badge&logo=node.js" alt="Node.js v20.x">
     </a>
-    <img src="https://img.shields.io/github/repo-size/ntkhang03/Goat-Bot-V2.svg?style=for-the-badge&label=size&color=blue" alt="Repo Size">
-    <img src="https://img.shields.io/badge/dynamic/json?color=orange&label=version&prefix=v&query=%24.version&url=https://github.com/ntkhang03/Goat-Bot-V2/raw/main/package.json&style=for-the-badge" alt="Version">
+    <img src="https://img.shields.io/github/repo-size/Jin/Goat-Bot-V2.svg?style=for-the-badge&label=size&color=blue" alt="Repo Size">
+    <img src="https://img.shields.io/badge/dynamic/json?color=orange&label=version&prefix=v&query=%24.version&url=https://github.com/Jin/Goat-Bot-V2/raw/main/package.json&style=for-the-badge" alt="Version">
     <img src="https://visitor-badge.laobi.icu/badge?style=for-the-badge&page_id=ntkhang3.Goat-Bot-V2&color=red" alt="Visitors">
     <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="License">
   </p>
   
-  <h3>✨ Created by <a href="https://github.com/ntkhang03">NTKhang</a> | Modified & Enhanced by <a href="https://github.com/NeoKEX">NeoKEX</a></h3>
+  <h3>✨ Created by <a href="https://github.com/Jin">Jin</a> | Modified & Enhanced by <a href="https://github.com/Jin">Jin</a></h3>
   
   <p>
     <strong>🚀 No Google Credentials Required!</strong><br>
-    <em>Uses neokex-fca for seamless Facebook integration</em>
+    <em>Uses Jin for seamless Facebook integration</em>
   </p>
 </div>
 
@@ -62,7 +62,7 @@
 ## 📝 **Important Notes**
 
 > ⚠️ **Account Safety First**
-> - This bot uses [neokex-fca](https://github.com/NeoKEX/neokex-fca) (Facebook Chat API)
+> - This bot uses [Jin](https://github.com/Jin/Jin) (Facebook Chat API)
 > - **No Google API credentials needed** - Simple setup with just your Facebook account
 > - Using unofficial APIs may risk account restrictions
 > - **Recommended:** Use a secondary/clone Facebook account
@@ -87,7 +87,7 @@
 
 ### 🚀 Quick Start (Local)
 ```bash
-git clone https://github.com/ntkhang03/Goat-Bot-V2.git
+git clone https://github.com/Jin/Goat-Bot-V2.git
 cd Goat-Bot-V2
 npm install
 ```
@@ -110,7 +110,7 @@ Choose your preferred platform:
 - For VPS/Windows: https://www.youtube.com/watch?v=uCbSYNQNEwY
   
 Summary instructions:
-- See [here](https://github.com/ntkhang03/Goat-Bot-V2/blob/main/STEP_INSTALL.md)
+- See [here](https://github.com/Jin/Goat-Bot-V2/blob/main/STEP_INSTALL.md)
 
 
 
@@ -189,7 +189,7 @@ Tutorial has been uploaded on YouTube
 - on vps/computer: https://youtu.be/uCbSYNQNEwY?t=508
 
 ## 🛠️ **How to create new commands**
-- See [here](https://github.com/ntkhang03/Goat-Bot-V2/blob/main/DOCS.md)
+- See [here](https://github.com/Jin/Goat-Bot-V2/blob/main/DOCS.md)
 
 ## 💭 **Support**
 If you have major coding issues with this bot, please join and ask for help.
@@ -255,7 +255,7 @@ If you have major coding issues with this bot, please join and ask for help.
 
 ## ❌ **DO NOT USE THE ORIGINAL UNDERGRADUATE VERSION**
 - The use of unknown source code can lead to the device being infected with viruses, malware, hacked social accounts, banks, ...
-- Goat-Bot-V2 is only published at https://github.com/ntkhang03/Goat-Bot-V2, all other sources, all forks from other github, replit,... are fake, violate policy
+- Goat-Bot-V2 is only published at https://github.com/Jin/Goat-Bot-V2, all other sources, all forks from other github, replit,... are fake, violate policy
 - If you use from other sources (whether accidentally or intentionally) it means that you are in violation and will be banned without notice
 ## 📸 **Screenshots**
 - ### Bot
@@ -353,8 +353,8 @@ If you have major coding issues with this bot, please join and ask for help.
 </details>
 
 ## ✨ **Copyright (C)**
-- **[NTKhang (NTKhang03)](https://github.com/ntkhang03)**
-- **[NeoKEX](https://github.com/NeoKEX)**
+- **[Jin (Jin03)](https://github.com/Jin)**
+- **[Jin](https://github.com/Jin)**
 
 ## 📜 **License**
 

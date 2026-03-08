@@ -99,7 +99,7 @@ module.exports = {
     name: 'download',
     aliases: ['dl', 'fbdl', 'ytdl', 'instadl', 'alldl'],
     version: '2.1',
-    author: 'Neoaz ゐ',
+    author: 'Jin',
     countDown: 5,
     role: 0,
     longDescription: 'Download media automatically or via command using Free Goat API.',

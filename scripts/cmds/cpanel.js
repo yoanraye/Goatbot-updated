@@ -403,7 +403,7 @@ async function generateCpanelCard(botName = "GOAT BOT") {
     ctx.fillText('∆', centerX, centerY - 45);
     
     ctx.font = 'bold 32px BeVietnamPro';
-    ctx.fillText('NeoKEX AI', centerX, centerY);
+    ctx.fillText('Jin AI', centerX, centerY);
     
     ctx.font = '600 16px BeVietnamPro';
     ctx.fillStyle = 'rgba(255,255,255,0.8)';
@@ -462,7 +462,7 @@ module.exports = {
         name: "cpanel",
         aliases: ["hosting", "server", "hostinfo", "panel"],
         version: "2.0.0",
-        author: "Neoaz ゐ",
+        author: "Jin",
         countDown: 10,
         role: 0,
         description: "Display hosting information with beautiful circular visual interface",

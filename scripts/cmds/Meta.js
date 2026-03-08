@@ -69,7 +69,7 @@ module.exports = {
         name: "meta",
         aliases: ["metaai", "metagen"],
         version: "2.5",
-        author: "Neoaz ゐ",
+        author: "Jin",
         countDown: 20,
         role: 0,
         longDescription: "Generate 4 images using Meta AI with persistence on selection.",

@@ -6,7 +6,7 @@ module.exports = {
 	config: {
 		name: "rankup",
 		version: "1.4",
-		author: "NTKhang",
+		author: "Jin",
 		countDown: 5,
 		role: 0,
 		description: {
@@ -44,7 +44,8 @@ module.exports = {
 		return message.reply(args[0] == "on" ? getLang("turnedOn") : getLang("turnedOff"));
 	},
 
-	onChat: async function ({ threadsData, usersData, event, message, getLang }) {
+	onChat: async function ({ threadsData, usersData, event, message, getLang, api }) {
+		if (event.senderID == api.getCurrentUserID()) return;
 		const threadData = await threadsData.get(event.threadID);
 		const sendRankupMessage = threadData.settings.sendRankupMessage;
 		if (!sendRankupMessage)

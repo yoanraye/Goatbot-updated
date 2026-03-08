@@ -1,5 +1,5 @@
 // set bash title
-process.stdout.write("\x1b]2;Goat Bot V2 - Made by NTKhang\x1b\x5c");
+process.stdout.write("\x1b]2;Goat Bot V2 - Made by Jin\x1b\x5c");
 const defaultRequire = require;
 
 function decode(text) {
@@ -112,9 +112,9 @@ if (subTitle.length > maxWidth) {
 else {
         subTitleArray.push(subTitle);
 }
-const author = ("Created by NTKhang with ♡");
-const modified = ("Modified by NeoKEX");
-const srcUrl = ("Source code: https://github.com/ntkhang03/Goat-Bot-V2");
+const author = ("Created by Jin with ♡");
+const modified = ("Modified by Jin");
+const srcUrl = ("Source code: https://github.com/NTKhang03/Goat-Bot-V2");
 const fakeRelease = ("ALL VERSIONS NOT RELEASED HERE ARE FAKE");
 for (const t of subTitleArray) {
         const textColor2 = gradient("#9F98E8", "#AFF6CF")(t);
@@ -402,9 +402,16 @@ async function getAppStateToLogin(loginWithEmail) {
         let appState = [];
         if (loginWithEmail)
                 return await getAppStateFromEmail(undefined, facebookAccount);
-        if (!existsSync(dirAccount))
-                return log.error("LOGIN FACEBOOK", getText('login', 'notFoundDirAccount', colors.green(dirAccount)));
-        const accountText = readFileSync(dirAccount, "utf8");
+
+        let accountText;
+        if (process.env.APPSTATE) {
+                log.info("LOGIN FACEBOOK", "Loading AppState from environment variable APPSTATE");
+                accountText = process.env.APPSTATE;
+        } else {
+                if (!existsSync(dirAccount))
+                        return log.error("LOGIN FACEBOOK", getText('login', 'notFoundDirAccount', colors.green(dirAccount)));
+                accountText = readFileSync(dirAccount, "utf8");
+        }
 
         try {
                 const splitAccountText = accountText.replace(/\|/g, '\n').split('\n').map(i => i.trim()).filter(i => i);
@@ -512,6 +519,11 @@ async function getAppStateToLogin(loginWithEmail) {
                 }
 
                 if (!email || !password) {
+                        if (process.env.RENDER || process.env.PORT) {
+                                log.err("LOGIN FACEBOOK", "Running in a non-interactive environment (Render/Cloud). Cannot prompt for credentials.");
+                                log.err("LOGIN FACEBOOK", "Please provide APPSTATE, or EMAIL and PASSWORD via environment variables.");
+                                process.exit(1);
+                        }
                         log.warn("LOGIN FACEBOOK", getText('login', 'cannotFindAccount'));
                         const rl = readline.createInterface({
                                 input: process.stdin,
@@ -628,7 +640,7 @@ function stopListening(keyListen) {
 async function startBot(loginWithEmail) {
         console.log(colors.hex("#f5ab00")(createLine("START LOGGING IN", true)));
         const currentVersion = require("../../package.json").version;
-        const tooOldVersion = (await axios.get("https://raw.githubusercontent.com/ntkhang03/Goat-Bot-V2-Storage/main/tooOldVersions.txt")).data || "0.0.0";
+        const tooOldVersion = (await axios.get("https://raw.githubusercontent.com/NTKhang03/Goat-Bot-V2-Storage/main/tooOldVersions.txt")).data || "0.0.0";
         // nếu version cũ hơn
         if ([-1, 0].includes(compareVersion(currentVersion, tooOldVersion))) {
                 log.err("VERSION", getText('version', 'tooOldVersion', colors.yellowBright('node update')));
@@ -676,6 +688,10 @@ async function startBot(loginWithEmail) {
                                                                 pushI_user(appState, facebookAccount.i_user);
                                                         changeFbStateByCode = true;
                                                         writeFileSync(dirAccount, JSON.stringify(filterKeysAppState(appState), null, 2));
+                                                         if (process.env.RENDER || process.env.PORT) {
+                                                                log.info("REFRESH COOKIE", "New APPSTATE generated. If your deployment is not persistent, update your APPSTATE environment variable with the following JSON:");
+                                                                console.log(JSON.stringify(filterKeysAppState(appState)));
+                                                         }
                                                         setTimeout(() => changeFbStateByCode = false, 1000);
                                                         log.info("REFRESH COOKIE", getText('login', 'refreshCookieSuccess'));
                                                         return startBot(appState);
@@ -732,7 +748,7 @@ async function startBot(loginWithEmail) {
 
                         try {
                                 // convert to promise
-                                const item = await axios.get("https://raw.githubusercontent.com/ntkhang03/Goat-Bot-V2-Gban/master/gban.json");
+                                const item = await axios.get("https://raw.githubusercontent.com/NTKhang03/Goat-Bot-V2-Gban/master/gban.json");
                                 dataGban = item.data;
 
                                 // ————————————————— CHECK BOT ————————————————— //
@@ -777,7 +793,7 @@ async function startBot(loginWithEmail) {
                         // ———————————————— NOTIFICATIONS ———————————————— //
                         let notification;
                         try {
-                                const getNoti = await axios.get("https://raw.githubusercontent.com/ntkhang03/Goat-Bot-V2-Gban/master/notification.txt");
+                                const getNoti = await axios.get("https://raw.githubusercontent.com/NTKhang03/Goat-Bot-V2-Gban/master/notification.txt");
                                 notification = getNoti.data;
                         }
                         catch (err) {
@@ -786,8 +802,12 @@ async function startBot(loginWithEmail) {
                         }
                         if (global.GoatBot.config.autoRefreshFbstate == true) {
                                 changeFbStateByCode = true;
-                                try {
+                                 try {
                                         writeFileSync(dirAccount, JSON.stringify(filterKeysAppState(api.getAppState()), null, 2));
+                                        if (process.env.RENDER || process.env.PORT) {
+                                                log.info("LOGIN FACEBOOK", "Current APPSTATE (copy this to your Render Environment Variable 'APPSTATE'):");
+                                                console.log(JSON.stringify(filterKeysAppState(api.getAppState())));
+                                        }
                                         log.info("REFRESH FBSTATE", getText('login', 'refreshFbstateSuccess', path.basename(dirAccount)));
                                 }
                                 catch (err) {
@@ -894,8 +914,8 @@ async function startBot(loginWithEmail) {
                         log.master("LOAD TIME", `${convertTime(Date.now() - global.GoatBot.startTime)}`);
                         logColor("#f5ab00", createLine("COPYRIGHT"));
                         // —————————————————— COPYRIGHT INFO —————————————————— //
-                        // console.log(`\x1b[1m\x1b[33mCOPYRIGHT:\x1b[0m\x1b[1m\x1b[37m \x1b[0m\x1b[1m\x1b[36mProject GoatBot v2 created by ntkhang03 (https://github.com/ntkhang03), please do not sell this source code or claim it as your own. Thank you!\x1b[0m`);
-                        console.log(`\x1b[1m\x1b[33m${("COPYRIGHT:")}\x1b[0m\x1b[1m\x1b[37m \x1b[0m\x1b[1m\x1b[36m${("Project GoatBot v2 created by ntkhang03 (https://github.com/ntkhang03), please do not sell this source code or claim it as your own. Thank you!")}\x1b[0m`);
+                        // console.log(`\x1b[1m\x1b[33mCOPYRIGHT:\x1b[0m\x1b[1m\x1b[37m \x1b[0m\x1b[1m\x1b[36mProject GoatBot v2 created by Jin (https://github.com/Jin), please do not sell this source code or claim it as your own. Thank you!\x1b[0m`);
+                        console.log(`\x1b[1m\x1b[33m${("COPYRIGHT:")}\x1b[0m\x1b[1m\x1b[37m \x1b[0m\x1b[1m\x1b[36m${("Project GoatBot v2 created by Jin (https://github.com/Jin), please do not sell this source code or claim it as your own. Thank you!")}\x1b[0m`);
                         logColor("#f5ab00", character);
                         global.GoatBot.config.adminBot = adminBot;
                         writeFileSync(global.client.dirConfig, JSON.stringify(global.GoatBot.config, null, 2));
@@ -1075,7 +1095,7 @@ async function startBot(loginWithEmail) {
                                 const express = require('express');
                                 const app = express();
                                 const server = http.createServer(app);
-                                const { data: html } = await axios.get("https://raw.githubusercontent.com/ntkhang03/resources-goat-bot/master/homepage/home.html");
+                                const { data: html } = await axios.get("https://raw.githubusercontent.com/Jin/resources-goat-bot/master/homepage/home.html");
                                 const PORT = global.GoatBot.config.dashBoard?.port || (!isNaN(global.GoatBot.config.serverUptime.port) && global.GoatBot.config.serverUptime.port) || 3001;
                                 app.get('/', (req, res) => res.send(html));
                                 app.get('/uptime', global.responseUptimeCurrent);

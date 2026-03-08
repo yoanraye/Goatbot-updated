@@ -5,7 +5,7 @@ module.exports = {
   config: {
     name: "ramadan",
     version: "1.0",
-    author: "SiAM",
+    author: "Jin",
     countDown: 5,
     role: 0,
     shortDescription: "",
